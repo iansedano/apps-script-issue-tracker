@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/iansedano/apps-script-issue-tracker/issues"
   },
-  "homepage": "https://github.com/iansedano/apps-script-issue-tracker#readme"
+  "homepage": "https://github.com/iansedano/apps-script-issue-tracker#readme",
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.41"
+  }
 }
